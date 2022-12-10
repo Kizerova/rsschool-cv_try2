@@ -16,6 +16,12 @@ I believe, that my ability to learn  will lead me through this path of becoming 
 * Git, GitHub (Basic)
 * Editor VS Code
 * Figma
+##### Code example
+```
+Function multiply (a,b){
+    return a * b}
+```
+
 ##### Education
 * 2014 Poltava V.G. Korolenko National Pedagogical University/History
 * 2022 Courses of Java script on platform ITVDN
