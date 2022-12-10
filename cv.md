@@ -1,12 +1,12 @@
 ********
-###Kizerova Tamila 
+### Kizerova Tamila ![Tamila](/rsschool-cv/user_photo.jpg)
 ********
-#####Contacts
+##### Contacts
 * Phone:+38 066 591 2274  
 * E-mail:sulim.tamila@gmail.com
 * Telegram:@tamila_kizerova
 * Discord:Kizerova Tamila (@Kizerova)
-#####About me
+##### About me
 I am 30 years old. My parental leave is over and i ready go to work.
 I believe, that my ability to learn  will lead me through this path of becoming a Frontend Developer.  
 
