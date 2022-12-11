@@ -14,12 +14,13 @@ I believe, that my ability to learn  will lead me through this path of becoming 
 * Windows OS 
 * HTML5, CSS3 (Basic)
 * Git, GitHub (Basic)
-* Editor VS Code
+* Editor VS Code 
 * Figma
 ##### Code example
 ```
 Function multiply (a,b){
-    return a * b}
+    return a * b
+    }
 ```
 
 ##### Education
